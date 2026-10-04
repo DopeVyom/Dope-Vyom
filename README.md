@@ -1,6 +1,6 @@
 # Dope-Vyom
 ACM workshop test
-# Hi there! 👋 I'm Piyush Mandhare
+# Hi there! 👋 I'm Rudra Landage (VYOM)
 
 ### 🎓 Engineering Student | Aspiring Developer
 
